@@ -1,10 +1,10 @@
-# COVID19-INDIA-WEB-SCRAPER
+# COVID19-WEB-SCRAPER
  Open Source Tech Lab - Project [SEMESTER IV]
   
  >OSTL Assignments
  
- - OSTL [Assignments - 1](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-1.pdf)
- - OSTL [Assignments - 2](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-2.pdf)
+ - OSTL [Assignments - 1](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-1.pdf)
+ - OSTL [Assignments - 2](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-2.pdf)
 
 
 ## Project
@@ -15,8 +15,8 @@
  
  >_Data sourced from [Ministry Of Health and Family Welfare, India](https://www.mohfw.gov.in)._
 
- - **[Python](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py)**
- - **[Google Colaboratory](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.ipynb)**
+ - **[Python](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py)**
+ - **[Google Colaboratory](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.ipynb)**
  - **[Kaggle](https://www.kaggle.com/ameythakur20/covid19-web-scraper)**
 
 ## An example of the Bar Plot implementation
@@ -26,5 +26,4 @@
 ## An example of the Donut Chart implementation
 
 ![COVID19 India Donut Chart](https://user-images.githubusercontent.com/54937357/152668640-f2e54233-3e51-4381-b2d1-5e96f47a6203.jpg)
-
 
