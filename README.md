@@ -1,6 +1,12 @@
 # COVID19-INDIA-WEB-SCRAPER
  Open Source Tech Lab - Project [SEMESTER IV]
   
+ >OSTL Assignments
+ 
+ - OSTL [Assignments - 1](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-1.pdf)
+ - OSTL [Assignments - 2](https://github.com/Amey-Thakur/COVID19-INDIA-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-2.pdf)
+
+
 ## Project
  
  >_COVID19 India Data Scraping and Visualisation using Matplotlib and BeautifulSoup in Python3._
