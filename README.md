@@ -1,11 +1,5 @@
 # COVID19-WEB-SCRAPER
  Open Source Tech Lab - Project [SEMESTER IV]
-  
- >OSTL Assignments
- 
- - OSTL [Assignments - 1](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-1.pdf)
- - OSTL [Assignments - 2](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/OSTL%20Assignments/OSTL_Assignment-2.pdf)
-
 
 ## Project
  
@@ -26,4 +20,5 @@
 ## An example of the Donut Chart implementation
 
 ![COVID19 India Donut Chart](https://user-images.githubusercontent.com/54937357/152668640-f2e54233-3e51-4381-b2d1-5e96f47a6203.jpg)
+
 
