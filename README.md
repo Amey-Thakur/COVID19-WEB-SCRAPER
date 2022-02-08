@@ -1,6 +1,8 @@
 # COVID19-WEB-SCRAPER
  Open Source Tech Lab - Project [SEMESTER IV]
 
+ - [x] **[OPEN SOURCE TECH LAB](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)**
+
 ## Project
  
  >_COVID19 India Data Scraping and Visualisation using Matplotlib and BeautifulSoup in Python3._
@@ -20,5 +22,3 @@
 ## An example of the Donut Chart implementation
 
 ![COVID19 India Donut Chart](https://user-images.githubusercontent.com/54937357/152668640-f2e54233-3e51-4381-b2d1-5e96f47a6203.jpg)
-
-
