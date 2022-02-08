@@ -1,7 +1,7 @@
 # COVID19-WEB-SCRAPER
- Open Source Tech Lab - Project [SEMESTER IV]
+ CSL405: Open Source Tech Lab - Project [SEMESTER IV]
 
- - [x] **[OPEN SOURCE TECH LAB](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)**
+ - [x] **CSL405: [OPEN SOURCE TECH LAB](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)**
 
 ## Project
  
