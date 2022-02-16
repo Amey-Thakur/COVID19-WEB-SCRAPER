@@ -7,13 +7,17 @@
  >**Covid19 Web Scraper**
  
  - **COVID19 India Data Scraping and Visualisation using Matplotlib and BeautifulSoup in Python3.**
+ 
  - **I used PrettyTable and BS4 to scrape/scale the data and visualize it using Bar Plots and Donut Charts.**
+ 
  - **Data sourced from [Ministry Of Health and Family Welfare, India](https://www.mohfw.gov.in).**
 
- >**Code**
+ >**SOURCE CODE**
  
  - **[Python](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.py)**
+ 
  - **[Google Colaboratory](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER/blob/main/Covid19_Web_Scraper.ipynb)**
+ 
  - **[Kaggle](https://www.kaggle.com/ameythakur20/covid19-web-scraper)**
 
 ## An example of the Bar Plot implementation
