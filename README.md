@@ -27,4 +27,3 @@
 ## An example of the Donut Chart implementation
 
 ![COVID19 India Donut Chart](https://user-images.githubusercontent.com/54937357/152668640-f2e54233-3e51-4381-b2d1-5e96f47a6203.jpg)
-
