@@ -1,7 +1,16 @@
 # COVID19-WEB-SCRAPER
+
  👍🏻 CSL405: Open Source Tech Lab - Project [SEMESTER IV]
 
  - [X] **CSL405: [OPEN SOURCE TECH LAB](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)**
+
+
+## Authors
+  
+   - **[Amey Thakur](https://github.com/Amey-Thakur)**
+   
+   - **[Hasan Rizvi](https://github.com/rizvihasan)**
+
 
 ## Project
 
@@ -34,6 +43,8 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Presented as a part of the 4th Semester of Engineering @ Terna Engineering College 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Presented as a part of the 4th Semester Mini-Project @ Terna Engineering College 👈🏻 <b> </p>
+
+<p align="center"> <b> 👷 Project Authors: Amey Thakur and Hasan Rizvi (Batch of 2022) <b> </p>
  
 <p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
