@@ -83,8 +83,6 @@ Developed as a mini-project for the **Open Source Tech Lab (CSL405)**, this tool
 <!-- STRUCTURE -->
 ## Project Structure
 
-## Project Structure
-
 ```
 COVID19-WEB-SCRAPER/
 │
