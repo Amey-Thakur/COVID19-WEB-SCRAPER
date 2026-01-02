@@ -1,0 +1,51 @@
+# Covid19 Web Scraper - Academic Repository
+# Specialized .gitignore for Python development and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE configuration
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+*.code-workspace
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and logs
+venv/
+.env
+.venv
+env/
+*.log
+*.bak
+*.sav
+*.old
+*.orig
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Office Temporary Files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
