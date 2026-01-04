@@ -6,7 +6,7 @@
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Platform](https://img.shields.io/badge/Platform-Python%20%7C%20Linux%20%7C%20Windows-blueviolet)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20BeautifulSoup-orange)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur-blue)](https://github.com/Amey-Thakur)
+  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-blue)](https://github.com/Amey-Thakur)
 
   A comprehensive data scraping and visualization tool for monitoring live COVID-19 statistics in India.
 
