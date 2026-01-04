@@ -10,7 +10,7 @@
 
   A comprehensive data scraping and visualization tool for monitoring live COVID-19 statistics in India.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[View Technical Specification](docs/SPECIFICATION.md)**
+  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)**
 
 </div>
 
