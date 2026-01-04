@@ -48,4 +48,4 @@ To ensure usability without graphical overhead, the `PrettyTable` library is use
 
 ---
 
-*Technical Specification | COVID19-WEB-SCRAPER | Version 1.0*
+*Technical Specification | Computer Engineering Project | Version 1.0*
