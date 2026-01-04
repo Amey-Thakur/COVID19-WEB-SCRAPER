@@ -1,0 +1,39 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "COVID19-WEB-SCRAPER",
+    "description": "A comprehensive data scraping and visualization tool for monitoring live COVID-19 statistics in India using BeautifulSoup and Matplotlib.",
+    "applicationCategory": "Web Scraping / Data Visualization",
+    "programmingLanguage": [
+        "Python"
+    ],
+    "runtimePlatform": [
+        "Python 3.x"
+    ],
+    "developmentStatus": "complete",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "dateReleased": "2020-08-12",
+    "codeRepository": "https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "email": "thakuramey5@gmail.com",
+            "@id": "https://github.com/Amey-Thakur"
+        }
+    ],
+    "contributor": [
+        {
+            "@type": "Person",
+            "givenName": "Hasan",
+            "familyName": "Rizvi",
+            "@id": "https://github.com/rizvihasan"
+        }
+    ],
+    "maintainer": {
+        "@type": "Person",
+        "givenName": "Amey",
+        "familyName": "Thakur"
+    }
+}

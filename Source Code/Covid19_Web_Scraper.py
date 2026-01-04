@@ -1,8 +1,14 @@
 # -----------------------------------------------------------------------------------------
-# Project: Covid19 Web Scraper
-# GitHub: https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER
-# Created by: Amey Thakur & Hasan Rizvi
-# Batch: 2022 @ Terna Engineering College
+# Project: COVID19-WEB-SCRAPER
+# GitHub:  https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER
+# Author:  Amey Thakur (https://github.com/Amey-Thakur)
+# Date:    2020-08-12
+# License: MIT License
+# -----------------------------------------------------------------------------------------
+# Description:
+# A comprehensive data scraping and visualization tool for monitoring live COVID-19 
+# statistics in India. This utility extracts data from the Ministry of Health and 
+# Family Welfare (MOHFW) website and generates analytical visualizations.
 # -----------------------------------------------------------------------------------------
 
 import pandas as pd
