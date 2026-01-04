@@ -161,7 +161,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
-**Copyright &copy; 2020** [Amey Thakur](https://github.com/Amey-Thakur)
+**Copyright &copy; 2020** [Amey Thakur](https://github.com/Amey-Thakur), [Hasan Rizvi](https://github.com/rizvihasan)
 
 ---
 
