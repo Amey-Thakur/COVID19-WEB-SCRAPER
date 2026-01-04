@@ -3,37 +3,46 @@
     "@type": "SoftwareSourceCode",
     "name": "COVID19-WEB-SCRAPER",
     "description": "A comprehensive data scraping and visualization tool for monitoring live COVID-19 statistics in India using BeautifulSoup and Matplotlib.",
-    "applicationCategory": "Web Scraping / Data Visualization",
+    "identifier": "COVID19-WEB-SCRAPER",
+    "license": "https://spdx.org/licenses/MIT.html",
     "programmingLanguage": [
         "Python"
     ],
-    "runtimePlatform": [
-        "Python 3.x"
-    ],
-    "developmentStatus": "complete",
-    "license": "https://spdx.org/licenses/MIT.html",
-    "dateReleased": "2020-08-12",
-    "codeRepository": "https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER",
     "author": [
         {
             "@type": "Person",
             "givenName": "Amey",
             "familyName": "Thakur",
-            "email": "thakuramey5@gmail.com",
-            "@id": "https://github.com/Amey-Thakur"
-        }
-    ],
-    "contributor": [
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
         {
             "@type": "Person",
             "givenName": "Hasan",
             "familyName": "Rizvi",
-            "@id": "https://github.com/rizvihasan"
+            "id": "https://github.com/rizvihasan",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
         }
     ],
-    "maintainer": {
-        "@type": "Person",
-        "givenName": "Amey",
-        "familyName": "Thakur"
-    }
+    "dateReleased": "2020-08-12",
+    "codeRepository": "https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER",
+    "developmentStatus": "complete",
+    "runtimePlatform": [
+        "Python 3.x"
+    ],
+    "applicationCategory": "Web Scraping / Data Visualization",
+    "keywords": [
+        "COVID-19",
+        "Web Scraping",
+        "BeautifulSoup",
+        "Matplotlib",
+        "Computer Engineering",
+        "Standardized"
+    ]
 }
