@@ -26,8 +26,8 @@ Submissions include:
   2. Demonstrable steps or technical evidence sufficient to contextualize the finding.
   3. An explanation of the issue’s relevance within the defined scope of the project.
 
-## Implementation Context: Python Data Analysis
-This project is implemented using the Python programming language and standard data science libraries (BeautifulSoup4, Pandas, Matplotlib, Seaborn), as defined by the project’s technical scope.
+## Implementation Context: Python Scripting
+This project is implemented using the Python language and standard analytical libraries (e.g., `BeautifulSoup4`, `Pandas`), as defined by the project’s technical scope.
 
 - **Execution Environment**: Execution occurs within standard Python 3 environments using the provided terminal interface or Jupyter Notebook.
 - **Scope Limitation**: This policy applies exclusively to the source code and academic materials contained within this repository and does not extend to the Python interpreter, external library dependencies, or platform-level security guarantees.
