@@ -194,7 +194,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
   <br>
 
-  🧪 **[Open Source Tech Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)** &nbsp;·&nbsp; 💻 **[Project Repository](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
+  🔬 **[Open Source Tech Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)** &nbsp;·&nbsp; 💻 **[COVID19-WEB-SCRAPER](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
 
 </div>
 
