@@ -87,23 +87,25 @@ Developed as a mini-project for the **Open Source Tech Lab**, this tool demonstr
 ```
 COVID19-WEB-SCRAPER/
 │
-├── Source Code/                     # Main Python Implementation
-│   ├── Covid19_Web_Scraper.py       # Core scraping logic
-│   └── Covid19_Web_Scraper.ipynb    # Jupyter Notebook for Colab/Kaggle
+├── docs/                                    # Formal Documentation
+│   └── SPECIFICATION.md                     # Technical Architecture & Spec
 │
-├── Mini Project/                    # Visualization & Reports
-│   └── Outputs/                     # Generated data visualizations
-│       ├── COVID19 India Bar Plot.jpg
-│       └── COVID19 India Donut Chart.jpg
+├── Mini Project/                            # Visualization & Reports
+│   └── Outputs/                             # Generated Data Visualizations
+│       ├── COVID19 India Bar Plot.jpg       # State-wise Confirmed Cases Bar Chart
+│       └── COVID19 India Donut Chart.jpg    # Nationwide Distribution Pie Chart
 │
-├── docs/                            # Project Documentation
-│   └── SPECIFICATION.md             # Formal Technical Specification
+├── Source Code/                             # Main Python Implementation
+│   ├── Covid19_Web_Scraper.ipynb            # Jupyter Notebook (Colab/Kaggle)
+│   └── Covid19_Web_Scraper.py               # Core Scraping Logic (Standalone)
 │
-├── LICENSE                          # MIT License
-├── CITATION.cff                     # Citation Metadata
-├── SECURITY.md                      # Security Policy & Posture
-├── codemeta.json                    # Project Metadata (JSON-LD)
-└── README.md                        # Project Documentation
+├── .gitattributes                           # Git Line Ending Configuration
+├── .gitignore                               # Git Ignore Rules
+├── CITATION.cff                             # Citation Metadata
+├── codemeta.json                            # Project Metadata (JSON-LD)
+├── LICENSE                                  # MIT License
+├── README.md                                # Project Documentation
+└── SECURITY.md                              # Security Policy & Posture
 ```
 
 ---
