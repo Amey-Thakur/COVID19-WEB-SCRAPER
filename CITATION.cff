@@ -4,7 +4,9 @@ authors:
 - family-names: "Thakur"
   given-names: "Amey"
   orcid: "https://orcid.org/0000-0001-5644-1575"
-title: "COVID19-WEB-SCRAPER"
+- family-names: "Rizvi"
+  given-names: "Hasan"
+title: "COVID-19 Real-Time Web Scraper"
 version: 1.0.0
 date-released: 2020-08-12
 url: "https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER"

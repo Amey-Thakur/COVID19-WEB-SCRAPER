@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------------------
-# Project: COVID19-WEB-SCRAPER
+# Project: COVID-19 Real-Time Web Scraper
 # GitHub:  https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER
-# Author:  Amey Thakur (https://github.com/Amey-Thakur)
+# AUTHORS: Amey Thakur (https://github.com/Amey-Thakur) & Hasan Rizvi (https://github.com/rizvihasan)
 # Date:    2020-08-12
 # License: MIT License
 # -----------------------------------------------------------------------------------------
