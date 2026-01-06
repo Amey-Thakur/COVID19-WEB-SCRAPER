@@ -6,7 +6,7 @@
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Platform](https://img.shields.io/badge/Platform-Python%20%7C%20Linux%20%7C%20Windows-blueviolet)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20BeautifulSoup-orange)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
-  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-blue)](https://github.com/Amey-Thakur)
+  [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-blue)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
 
   A robust data scraping and visualization tool for monitoring live COVID-19 statistics in India, implemented using Python, Beautiful Soup, and Seaborn for scholarly analysis.
 
@@ -200,7 +200,7 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 <!-- ABOUT -->
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Hasan Rizvi](https://github.com/rizvihasan)  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
