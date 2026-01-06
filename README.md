@@ -8,7 +8,7 @@
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20BeautifulSoup-orange)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
   [![Developed by](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Hasan%20Rizvi-blue)](https://github.com/Amey-Thakur)
 
-  A comprehensive data scraping and visualization tool for monitoring live COVID-19 statistics in India.
+  A robust data scraping and visualization tool for monitoring live COVID-19 statistics in India, implemented using Python, Beautiful Soup, and Seaborn for scholarly analysis.
 
   **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)**
 
@@ -61,6 +61,11 @@ The **COVID19-WEB-SCRAPER** is a Python-based utility developed to provide real-
 
 Developed as a mini-project for the **Open Source Tech Lab**, this tool demonstrates the practical application of web scraping (BeautifulSoup), data manipulation (Pandas), and complex statistical visualization (Matplotlib & Seaborn).
 
+> [!TIP]
+> **Scraping Efficiency**
+>
+> For Large-scale data extraction or automated monitoring, the scraping logic can be optimized by implementing headless browser sessions or introducing random sleep intervals between requests. This minimizes load on the target server and reduces the risk of rate-limiting or IP blocking.
+
 ---
 
 <!-- FEATURES -->
@@ -90,14 +95,15 @@ COVID19-WEB-SCRAPER/
 ├── docs/                                    # Formal Documentation
 │   └── SPECIFICATION.md                     # Technical Architecture & Spec
 │
-├── Mini Project/                            # Visualization & Reports
+├── Mini-Project/                            # Visualization & Reports
 │   └── Outputs/                             # Generated Data Visualizations
 │       ├── COVID19 India Bar Plot.jpg       # State-wise Confirmed Cases Bar Chart
 │       └── COVID19 India Donut Chart.jpg    # Nationwide Distribution Pie Chart
 │
 ├── Source Code/                             # Main Python Implementation
 │   ├── Covid19_Web_Scraper.ipynb            # Jupyter Notebook (Colab/Kaggle)
-│   └── Covid19_Web_Scraper.py               # Core Scraping Logic (Standalone)
+│   ├── Covid19_Web_Scraper.py               # Core Scraping Logic (Standalone)
+│   └── requirements.txt                     # Python Dependency Requirements
 │
 ├── .gitattributes                           # Git Line Ending Configuration
 ├── .gitignore                               # Git Ignore Rules
@@ -120,6 +126,11 @@ COVID19-WEB-SCRAPER/
 ```bash
 pip install pandas seaborn matplotlib requests beautifulsoup4 prettytable
 ```
+
+> [!WARNING]
+> **Technical Posture & Ethics**
+>
+> This tool is designed for educational purposes. Web scraping is highly dependent on the target website's DOM structure; any modifications to the MOHFW portal may require iterative updates to the scraping logic. Always adhere to the target site's `robots.txt` and ethical data collection standards.
 
 ### Installation & Deployment
 
@@ -147,10 +158,10 @@ pip install pandas seaborn matplotlib requests beautifulsoup4 prettytable
 <div align="center">
 
   ### Statewise Confirmed Cases (Bar Plot)
-  ![Bar Plot](Mini%20Project/Outputs/COVID19%20India%20Bar%20Plot.jpg)
+  ![Bar Plot](Mini-Project/Outputs/COVID19%20India%20Bar%20Plot.jpg)
 
   ### Nationwide Distribution (Donut Chart)
-  ![Donut Chart](Mini%20Project/Outputs/COVID19%20India%20Donut%20Chart.jpg)
+  ![Donut Chart](Mini-Project/Outputs/COVID19%20India%20Donut%20Chart.jpg)
 
 </div>
 
