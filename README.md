@@ -10,7 +10,7 @@
 
   A robust data scraping and visualization tool for monitoring live COVID-19 statistics in India, implemented using Python, Beautiful Soup, and Seaborn for scholarly analysis.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)**
+  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/covid19-web-scraper)**
 
 </div>
 
@@ -207,7 +207,7 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 This project features the COVID19-WEB-SCRAPER, a terminal-based data analysis utility developed as a 4th-semester mini-project for the Open Source Tech Lab course. It showcases the practical application of web scraping logic, high-precision data normalization, and comparative statistical visualization.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [Kaggle](https://www.kaggle.com/ameythakur20)
 
 ### Acknowledgments
 
