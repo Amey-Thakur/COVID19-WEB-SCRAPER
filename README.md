@@ -1,6 +1,5 @@
 <div align="center">
 
-
   # COVID19-WEB-SCRAPER
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
