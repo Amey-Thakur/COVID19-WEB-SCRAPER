@@ -10,7 +10,7 @@
 
   A robust data scraping and visualization tool for monitoring live COVID-19 statistics in India, implemented using Python, Beautiful Soup, and Seaborn for scholarly analysis.
 
-  **[Source Code](Source%20Code/)** &nbsp;&middot;&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;&middot;&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/covid19-web-scraper)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/covid19-web-scraper)**
 
 </div>
 
@@ -35,14 +35,20 @@
   <tr>
   <td align="center">
   <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="150px;" alt="Amey Thakur"/><br />
+  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
   <sub><b>Amey Thakur</b></sub>
+  </a><br /><br />
+  <a href="https://orcid.org/0000-0001-5644-1575">
+  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/rizvihasan">
-  <img src="https://github.com/rizvihasan.png" width="150px;" alt="Hasan Rizvi"/><br />
+  <img src="https://github.com/rizvihasan.png" width="180px;" alt="Hasan Rizvi"/><br />
   <sub><b>Hasan Rizvi</b></sub>
+  </a><br /><br />
+  <a href="https://github.com/rizvihasan">
+  <img src="https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   </td>
   </tr>
@@ -207,7 +213,7 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 This project features the COVID19-WEB-SCRAPER, a terminal-based data analysis utility developed as a 4th-semester mini-project for the Open Source Tech Lab course. It showcases the practical application of web scraping logic, high-precision data normalization, and comparative statistical visualization.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [Kaggle](https://www.kaggle.com/ameythakur20)
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [Kaggle](https://www.kaggle.com/ameythakur20) · [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
