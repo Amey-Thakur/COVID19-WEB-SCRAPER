@@ -2,7 +2,7 @@
     "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
     "@type": "SoftwareSourceCode",
     "name": "COVID19-WEB-SCRAPER",
-    "description": "A robust menu-driven financial utility for COVID-19 real-time web scraping and data visualization using Python, Beautiful Soup, and Seaborn. This project serves as a scholarly collection artifact for Computer Engineering education.",
+    "description": "A robust data scraping and visualization tool for monitoring live COVID-19 statistics in India, implemented using Python, Beautiful Soup, and Seaborn for scholarly analysis. This project serves as a scholarly collection project for Computer Engineering education.",
     "identifier": "COVID19-WEB-SCRAPER",
     "license": "https://spdx.org/licenses/MIT.html",
     "programmingLanguage": [

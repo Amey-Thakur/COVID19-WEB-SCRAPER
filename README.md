@@ -31,32 +31,14 @@
 
   **Terna Engineering College | Computer Engineering | Batch of 2022**
 
-  <table>
-  <tr>
-  <td align="center">
-  <a href="https://github.com/Amey-Thakur">
-  <img src="https://github.com/Amey-Thakur.png" width="180px;" alt="Amey Thakur"/><br />
-  <sub><b>Amey Thakur</b></sub>
-  </a><br /><br />
-  <a href="https://orcid.org/0000-0001-5644-1575">
-  <img src="https://img.shields.io/badge/ORCID-0000--0001--5644--1575-brightgreen" alt="ORCID"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/rizvihasan">
-  <img src="https://github.com/rizvihasan.png" width="180px;" alt="Hasan Rizvi"/><br />
-  <sub><b>Hasan Rizvi</b></sub>
-  </a><br /><br />
-  <a href="https://github.com/rizvihasan">
-  <img src="https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  </td>
-  </tr>
-  </table>
-
-  *Special thanks to [Hasan Rizvi](https://github.com/rizvihasan) for his meaningful contributions, guidance, and support that helped shape this work.*
+| <a href="https://github.com/Amey-Thakur"><img src="https://github.com/Amey-Thakur.png" width="150" height="150" alt="Amey Thakur"></a><br>[**Amey Thakur**](https://github.com/Amey-Thakur)<br><br>[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5644--1575-green.svg)](https://orcid.org/0000-0001-5644-1575) | <a href="https://github.com/rizvihasan"><img src="https://github.com/rizvihasan.png" width="150" height="150" alt="Hasan Rizvi"></a><br>[**Hasan Rizvi**](https://github.com/rizvihasan)<br><br>[![GitHub](https://img.shields.io/badge/GitHub-rizvihasan-181717?style=flat&logo=github&logoColor=white)](https://github.com/rizvihasan) |
+| :---: | :---: |
 
 </div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to **[Hasan Rizvi](https://github.com/rizvihasan)** for his meaningful contributions, guidance, and support that helped shape this work.*
 
 ---
 
@@ -66,6 +48,20 @@
 The **COVID19-WEB-SCRAPER** is a Python-based utility developed to provide real-time insights into the COVID-19 situation in India. It programmatically extracts live data from the **[Ministry of Health and Family Welfare (MOHFW)](https://www.mohfw.gov.in)** website and processes it into actionable visualizations.
 
 Developed as a mini-project for the **Open Source Tech Lab**, this tool demonstrates the practical application of web scraping (BeautifulSoup), data manipulation (Pandas), and complex statistical visualization (Matplotlib & Seaborn).
+
+> [!NOTE]
+> **Research Impact**: The logic and architectural overview of this project are part of a curated Computer Engineering collection on ResearchGate.
+> - [ResearchGate Profile](https://www.researchgate.net/profile/Amey-Thakur)
+
+### Resources
+
+| # | Resource | Description |
+|---|---|---|
+| 1 | [Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/covid19-web-scraper) | Interactive Jupyter Notebook environment |
+| 2 | [Technical Specification](docs/SPECIFICATION.md) | Technical architecture and logic specification |
+| 3 | [Source Code](Source%20Code/) | Core Python implementation files |
+| 4 | [OST Laboratory](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB) | Academic repository for Open Source Tech |
+
 
 > [!TIP]
 > **Scraping Efficiency**
@@ -95,29 +91,29 @@ Developed as a mini-project for the **Open Source Tech Lab**, this tool demonstr
 <!-- STRUCTURE -->
 ## Project Structure
 
-```
+```python
 COVID19-WEB-SCRAPER/
 │
 ├── docs/                                    # Formal Documentation
-│   └── SPECIFICATION.md                     # Technical Architecture & Spec
+│   └── SPECIFICATION.md                     # Technical Architecture & Specification
 │
-├── Mini-Project/                            # Visualization & Reports
+├── Mini-Project/                            # Academic Reports
 │   └── Outputs/                             # Generated Data Visualizations
-│       ├── COVID19 India Bar Plot.jpg       # State-wise Confirmed Cases Bar Chart
-│       └── COVID19 India Donut Chart.jpg    # Nationwide Distribution Pie Chart
+│       ├── Statewise_Confirmed_Cases.jpg    # Statistical Bar Chart
+│       └── Nationwide_Distribution.jpg      # Statistical Donut Chart
 │
-├── Source Code/                             # Main Python Implementation
-│   ├── Covid19_Web_Scraper.ipynb            # Jupyter Notebook (Colab/Kaggle)
-│   ├── Covid19_Web_Scraper.py               # Core Scraping Logic (Standalone)
-│   └── requirements.txt                     # Python Dependency Requirements
+├── Source Code/                             # Core Implementation
+│   ├── Scraper_Notebook.ipynb               # Jupyter Implementation
+│   ├── Main_Scraper.py                      # Standalone Script
+│   └── requirements.txt                     # Execution Dependencies
 │
-├── .gitattributes                           # Git Line Ending Configuration
-├── .gitignore                               # Git Ignore Rules
-├── CITATION.cff                             # Citation Metadata
-├── codemeta.json                            # Project Metadata (JSON-LD)
-├── LICENSE                                  # MIT License
-├── README.md                                # Project Documentation
-└── SECURITY.md                              # Security Policy & Posture
+├── .gitattributes                       # Git Configuration
+├── .gitignore                           # Git Ignore Rules
+├── CITATION.cff                         # Citation Metadata
+├── codemeta.json                        # Project Metadata (JSON-LD)
+├── LICENSE                              # MIT License
+├── README.md                            # Main Documentation
+└── SECURITY.md                          # Security Policy & Posture
 ```
 
 ---
@@ -213,13 +209,15 @@ Copyright © 2020 Amey Thakur, Hasan Rizvi
 
 This project features the COVID19-WEB-SCRAPER, a terminal-based data analysis utility developed as a 4th-semester mini-project for the Open Source Tech Lab course. It showcases the practical application of web scraping logic, high-precision data normalization, and comparative statistical visualization.
 
-**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur) · [Kaggle](https://www.kaggle.com/ameythakur20) · [ORCID](https://orcid.org/0000-0001-5644-1575)
+**Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [Kaggle](https://www.kaggle.com/ameythakur20) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
 ### Acknowledgments
 
-Grateful acknowledgment to **[Hasan Rizvi](https://github.com/rizvihasan)** for his pivotal role and collaborative excellence during the development of this project. His expertise in logical structuring and data visualization was instrumental in the success of this project. This technical record serves as a testament to his scholarly partnership and significant impact on the final implementation.
+Grateful acknowledgment to [**Hasan Rizvi**](https://github.com/rizvihasan) for his exceptional collaboration and innovative contributions during the development of this project. His technical expertise in logical structuring, high-precision data normalization, and commitment to software quality were instrumental in building this robust web scraper. Learning alongside him was a transformative experience; his thoughtful approach to problem-solving and steady encouragement turned complex challenges into meaningful learning moments. This work reflects the growth and insights gained from our side-by-side academic journey. Thank you, Hasan, for everything you shared and taught along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance during the course of this project. Gratitude is also extended to the mentors and peers who supported this learning endeavor.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Open Source Technology. Their expertise in collaborative development and Unix-like environments helped shape the technical foundation of this project.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning endeavor.
 
 ---
 
@@ -240,7 +238,9 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 <div align="center">
 
-  ### Presented as part of the 4th Semester Mini-Project @ Terna Engineering College
+  #### Presented as part of the 4th Semester Mini-Project @ Terna Engineering College
+
+  ---
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
