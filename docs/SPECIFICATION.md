@@ -1,8 +1,8 @@
-# Technical Specification: COVID19-WEB-SCRAPER
+# Technical Specification: COVID-19 Web Scraper
 
 ## Architectural Overview
 
-The **COVID19-WEB-SCRAPER** is a Python-based asynchronous data extraction utility designed for high-fidelity monitoring of public health statistics. It utilizes a layered architecture to transition from raw HTML scraping to structured statistical visualization.
+The **COVID-19 Web Scraper** is a Python-based asynchronous data extraction utility designed for high-fidelity monitoring of public health statistics. It utilizes a layered architecture to transition from raw HTML scraping to structured statistical visualization.
 
 ### Data Lifecycle Diagram
 
