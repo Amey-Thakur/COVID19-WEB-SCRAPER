@@ -107,13 +107,13 @@ COVID19-WEB-SCRAPER/
 │   ├── Main_Scraper.py                      # Standalone Script
 │   └── requirements.txt                     # Execution Dependencies
 │
-├── .gitattributes                       # Git Configuration
-├── .gitignore                           # Git Ignore Rules
-├── CITATION.cff                         # Citation Metadata
-├── codemeta.json                        # Project Metadata (JSON-LD)
-├── LICENSE                              # MIT License
-├── README.md                            # Main Documentation
-└── SECURITY.md                          # Security Policy & Posture
+├── .gitattributes                           # Git Configuration
+├── .gitignore                               # Git Ignore Rules
+├── CITATION.cff                             # Citation Metadata
+├── codemeta.json                            # Project Metadata (JSON-LD)
+├── LICENSE                                  # MIT License
+├── README.md                                # Main Documentation
+└── SECURITY.md                              # Security Policy & Posture
 ```
 
 ---
