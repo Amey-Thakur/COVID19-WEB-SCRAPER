@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 India Dashboard | Amey & Hasan</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+            color: #c9d1d9;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            font-size: 32px;
+            color: #58a6ff;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 14px;
+            color: #8b949e;
+        }
+
+        .header .subtitle {
+            margin-top: 8px;
+            font-size: 13px;
+            color: #6e7681;
+        }
+
+        .card {
+            background: #161b22;
+            border-radius: 16px;
+            border: 1px solid #30363d;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+
+        .card h2 {
+            font-size: 18px;
+            color: #58a6ff;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .card img {
+            width: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+
+        .info-banner {
+            background: linear-gradient(135deg, #238636 0%, #2ea043 100%);
+            border-radius: 10px;
+            padding: 15px 20px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .info-banner p {
+            font-size: 14px;
+            color: #fff;
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .tech-badge {
+            background: #21262d;
+            border: 1px solid #30363d;
+            border-radius: 20px;
+            padding: 8px 16px;
+            font-size: 12px;
+            color: #8b949e;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 12px;
+            color: #8b949e;
+        }
+
+        .footer a {
+            color: #58a6ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🦠 COVID-19 India Dashboard</h1>
+            <p>Real-time Web Scraping & Statistical Visualization</p>
+            <p class="subtitle">Presented as part of the 4th Semester Mini-Project @ Terna Engineering College</p>
+        </div>
+
+        <div class="info-banner">
+            <p>📊 Data sourced from the Ministry of Health and Family Welfare (MOHFW), Government of India</p>
+        </div>
+
+        <div class="card">
+            <h2>Statewise Confirmed Cases (Bar Plot)</h2>
+            <img src="Mini-Project/Outputs/COVID19%20India%20Bar%20Plot.jpg" alt="Statewise Confirmed Cases Bar Plot">
+        </div>
+
+        <div class="card">
+            <h2>Nationwide Distribution (Donut Chart)</h2>
+            <img src="Mini-Project/Outputs/COVID19%20India%20Donut%20Chart.jpg"
+                alt="Nationwide Distribution Donut Chart">
+        </div>
+
+        <div class="card">
+            <h2>Tech Stack</h2>
+            <div class="tech-stack">
+                <span class="tech-badge">🐍 Python 3.x</span>
+                <span class="tech-badge">🍲 BeautifulSoup4</span>
+                <span class="tech-badge">🐼 Pandas</span>
+                <span class="tech-badge">📊 Matplotlib</span>
+                <span class="tech-badge">🎨 Seaborn</span>
+                <span class="tech-badge">📋 PrettyTable</span>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>
+                <a href="https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER">View Source Code</a> ·
+                <a href="https://www.kaggle.com/code/ameythakur20/covid19-web-scraper">Run on Kaggle</a>
+            </p>
+            <p style="margin-top: 10px;">&copy; 2020 Amey Thakur & Hasan Rizvi</p>
+        </div>
+    </div>
+</body>
+
+</html>
