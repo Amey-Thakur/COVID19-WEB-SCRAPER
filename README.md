@@ -10,7 +10,7 @@
 
   A robust data scraping and visualization tool for monitoring live COVID-19 statistics in India, implemented using Python, Beautiful Soup, and Seaborn for scholarly analysis.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/covid19-web-scraper)**
+  **[Live Demo](https://amey-thakur.github.io/COVID19-WEB-SCRAPER/)** &nbsp;·&nbsp; **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Kaggle Notebook](https://www.kaggle.com/code/ameythakur20/covid19-web-scraper)**
 
 </div>
 
@@ -85,6 +85,7 @@ Developed as a mini-project for the **Open Source Tech Lab**, this tool demonstr
 - **Language**: Python 3.x
 - **Libraries**: BeautifulSoup4, Requests, Pandas, Matplotlib, Seaborn, PrettyTable
 - **Environment**: Local Machine / Google Colab / Kaggle
+- **Web Dashboard**: HTML, CSS, JavaScript (GitHub Pages)
 
 ---
 
@@ -230,7 +231,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[Open Source Tech Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)** &nbsp;·&nbsp; 🖥️ **[COVID19-WEB-SCRAPER](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)**
+  🔬 **[Open Source Tech Lab](https://github.com/Amey-Thakur/OPEN-SOURCE-TECH-LAB)** &nbsp;·&nbsp; 🖥️ **[COVID19-WEB-SCRAPER](https://amey-thakur.github.io/COVID19-WEB-SCRAPER/)**
 
 </div>
 
