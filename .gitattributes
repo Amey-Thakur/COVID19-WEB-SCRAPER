@@ -26,3 +26,5 @@ LICENSE text eol=lf
 # Improve diff handling
 *.md text diff=markdown
 *.ipynb text diff=json
+index.html linguist-detectable=false
+
