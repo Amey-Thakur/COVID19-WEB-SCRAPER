@@ -27,4 +27,6 @@ LICENSE text eol=lf
 *.md text diff=markdown
 *.ipynb text diff=json
 index.html linguist-detectable=false
+*.html linguist-vendored linguist-detectable=false
+
 
