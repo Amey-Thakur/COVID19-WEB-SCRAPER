@@ -153,6 +153,11 @@ pip install pandas seaborn matplotlib requests beautifulsoup4 prettytable
    python "Source Code/Covid19_Web_Scraper.py"
    ```
 
+> [!TIP]
+> **Live Statistical Dashboard**
+>
+> If you wish to view the generated visualizations without executing the script locally, check out the [**Live Dashboard**](https://amey-thakur.github.io/COVID19-WEB-SCRAPER/). This web-based interface provides real-time access to the latest scraped statistics and comparative bar plots, optimized for instant analysis and data exploration.
+
 ---
 
 <!-- RESULTS -->
