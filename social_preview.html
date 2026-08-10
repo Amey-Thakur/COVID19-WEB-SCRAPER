@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>COVID-19 Web Scraper - Social Preview</title>
+<!-- Renders the 1280x640 social preview from this repository's own assets. -->
+</head>
+<body>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1280px;height:640px;overflow:hidden;font-family:"Segoe UI",system-ui,sans-serif}
+.card{position:relative;width:1280px;height:640px;overflow:hidden;background:#fbfbfc}
+.card:before{content:"";position:absolute;left:0;top:0;bottom:0;width:9px;background:#87CEEB}
+svg{position:absolute;inset:0}
+.left{position:absolute;left:74px;top:0;bottom:0;width:560px;display:flex;flex-direction:column;justify-content:center}
+.k{font-size:14px;font-weight:700;letter-spacing:.20em;color:#2b8fb3}
+.h1{margin-top:16px;font-size:64px;font-weight:800;line-height:1.02;letter-spacing:-.025em;color:#15202b}
+.rule{margin:24px 0 20px;width:84px;height:4px;background:#87CEEB}
+.src{font-size:17px;font-weight:600;color:#5a6673;line-height:1.85}
+.src b{color:#15202b;font-weight:700}
+.legend{margin-top:24px;display:flex;flex-direction:column;gap:11px}
+.li{display:flex;align-items:center;gap:12px;font-size:18px;color:#2b3742;font-weight:600}
+.li i{width:15px;height:15px;border-radius:3px;display:block}
+.li b{margin-left:auto;font-weight:800;font-variant-numeric:tabular-nums;color:#15202b}
+.li .row{display:flex;width:290px}
+.by{margin-top:26px;font-size:19px;font-weight:700;color:#15202b}
+.by span{display:block;font-size:13px;font-weight:600;letter-spacing:.18em;color:#7a8896;margin-bottom:7px}
+.cap{position:absolute;left:790px;top:96px;width:420px;text-align:center;font-size:17px;font-weight:700;color:#3c4a57}
+</style>
+<div class="card">
+  <svg viewBox="0 0 1280 640"><path d="M930,152 A168,168 0 1 1 839.463805589426,178.48251874185033 L872.8759725742807,230.70920825378653 A106,106 0 1 0 930,214 Z" fill="#87CEEB"/><path d="M839.463805589426,178.48251874185033 A168,168 0 0 1 905.2346547009585,153.83538983219307 L914.3742464184619,215.15804358459803 A106,106 0 0 0 872.8759725742807,230.70920825378653 Z" fill="#9ACD32"/><path d="M905.2346547009585,153.83538983219307 A168,168 0 0 1 929.9999999999998,152 L929.9999999999999,214 A106,106 0 0 0 914.3742464184619,215.15804358459803 Z" fill="#FF6347"/></svg>
+  <div class="cap">Nationwide total Confirmed, Recovered and Deceased Cases</div>
+  <div class="left">
+    <div class="k">MINI PROJECT &middot; SEMESTER IV &middot; CSL405</div>
+    <div class="h1">COVID-19<br>Web Scraper</div>
+    <div class="rule"></div>
+    <div class="src">Scrapes the daily national bulletin from <b>mohfw.gov.in</b><br><b>Python &middot; BeautifulSoup &middot; Matplotlib &middot; 2020</b></div>
+    <div class="legend">
+      <div class="li"><div class="row"><i style="background:#87CEEB"></i>&nbsp;&nbsp;Confirmed<b>4789</b></div></div>
+      <div class="li"><div class="row"><i style="background:#9ACD32"></i>&nbsp;&nbsp;Recovered<b>353</b></div></div>
+      <div class="li"><div class="row"><i style="background:#FF6347"></i>&nbsp;&nbsp;Deceased<b>124</b></div></div>
+    </div>
+    <div class="by"><span>DESIGNED &amp; DEVELOPED BY</span>Amey Thakur &middot; Hasan Rizvi</div>
+  </div>
+</div>
+</body>
+</html>
