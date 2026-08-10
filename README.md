@@ -2,7 +2,7 @@
 
   # COVID19-WEB-SCRAPER
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-6E7681)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
   [![Platform](https://img.shields.io/badge/Platform-Python%20%7C%20Linux%20%7C%20Windows-00838F)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
   [![Technology](https://img.shields.io/badge/Technology-Python%20%7C%20BeautifulSoup-8250DF)](https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER)
