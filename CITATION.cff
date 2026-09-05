@@ -10,3 +10,7 @@ title: "COVID19-WEB-SCRAPER"
 version: 1.0.0
 date-released: 2020-08-12
 url: "https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER"
+identifiers:
+  - type: other
+    value: "2022-02-06"
+    description: "Date this repository was created on GitHub."

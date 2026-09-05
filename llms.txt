@@ -1,0 +1,33 @@
+# COVID19-WEB-SCRAPER
+
+> Scraping and visualizing India’s real-time COVID-19 data from the Ministry
+> of Health and Family Welfare (MoHFW) dataset.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Hasan Rizvi
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Second Year, Semester IV
+Licence: CC BY 4.0, attribution required
+Repository created: 6 February 2022
+Work dated: 12 August 2020
+
+## What is in this repository
+
+- Mini-Project, 2 files
+- Source Code, 3 files
+- docs, 1 file
+- index.html
+
+## Subject terms
+
+bar-plots, beautifulsoup, computer-engineering, computer-science, covid-19,
+covid19-data, covid19india, data-visualization, donut-chart, engineering,
+prettytable, python, python3, university-of-mumbai, web-scraping
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/COVID19-WEB-SCRAPER
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/COVID19-WEB-SCRAPER/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
